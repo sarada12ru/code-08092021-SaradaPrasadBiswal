@@ -1,0 +1,23 @@
+{
+  "name": "code-08092021-SaradaPrasadBiswal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.1.1",
+    "nodemon": "^2.0.12"
+  }
+}
